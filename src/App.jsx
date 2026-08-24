@@ -1,9 +1,14 @@
 
-
+// import Counter from "./component/Counter"
+import  UserDetails from "./component/UserDetails"
 function App() {
+  
   return(
   <>
-  hello
+  {/* <Counter/> */}
+  
+  < UserDetails/>
+
   </>
   )
 }
