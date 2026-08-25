@@ -118,6 +118,11 @@ userData.outerFunction()    // userData.arrowFunction() nhi likh sakte h kuki ye
 * check krna h arrow function is hoisted h ya nhi 
 
 
+*contact detail bnane h edit delete add
+*designe pattern of software mvc,mvvm,mvp single ton,Factory patterns
+
+
+
 
 
 
